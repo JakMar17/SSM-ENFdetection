@@ -1,0 +1,3 @@
+ref_no,t_start_n,t_duration_n,t_start_sec,t_duration_sec,noise,f_lowcut,f_highcut,f_order,max_corr,max_corr_n,max_corr_t,correct_corr,result
+1,86874,36000,217.185,86874,,,,,0.9983885737753315,86874,217.185,0.9983885737753315,True
+2,56142,36000,140.355,56142,,,,,0.9985229298510133,56142,140.355,0.9985229298510133,True
